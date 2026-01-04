@@ -48,10 +48,10 @@ Performance measurement traces its origins to early industrial engineering and s
 
 ### Design Principles
 Effective KPI design follows established frameworks:
-- **SMART criteria**: Specific, Measurable, Achievable, Relevant, Time-bound.
-- **Alignment with strategy**: KPIs should cascade from high-level objectives (e.g., OKRs – Objectives and Key Results).
-- **Balance**: Combination of leading (predictive) and lagging (outcome) indicators across multiple dimensions to prevent over-optimization of single aspects.
-- **Parsimony**: Limited number of KPIs (typically 5–10 per level) to maintain focus and reduce measurement overhead.
+- **Generic (SMART) criteria**: Specific, Measurable, Achievable, Relevant, Time-bound.
+- **Alignment criteria**: KPIs should cascade from high-level objectives (e.g., OKRs – Objectives and Key Results).
+- **Balanced criteria**: Combination of leading (predictive) and lagging (outcome) indicators across multiple dimensions to prevent over-optimization of single aspects.
+- **Parsimonious criteria**: Limited number of KPIs (typically 5–10 per level) to maintain focus and reduce measurement overhead.
 
 ### Leading versus Lagging Indicators
 Leading indicators provide early signals of future performance and enable proactive intervention (e.g., pipeline velocity as a predictor of delivery speed). Lagging indicators reflect historical results (e.g., revenue or defect escape rate). Theoretical balance requires both types: leading for steering, lagging for validation.
@@ -63,7 +63,7 @@ KPIs operate within cybernetic feedback systems. Positive reinforcement loops ca
 From a measurement theory standpoint, KPIs must exhibit:
 - **Construct validity**: Accurately representing the intended concept.
 - **Criterion validity**: Correlation with meaningful outcomes.
-- **Reliability**: Consistency across time, contexts, and observers.
+- **Reliable validity**: Consistency across time, contexts, and observers.
 
 These foundations ensure that KPIs serve as trustworthy instruments for monitoring, diagnosis, and improvement rather than superficial or misleading signals.
 
